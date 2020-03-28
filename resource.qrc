@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/snake_bg.jpg</file>
+        <file>img/snake_icon.png</file>
+        <file>shader/shader.fs</file>
+        <file>shader/shader.vs</file>
+        <file>img/tile.png</file>
+        <file>audio/bg.wav</file>
+        <file>audio/big_bite.wav</file>
+        <file>audio/button.wav</file>
+    </qresource>
+</RCC>
